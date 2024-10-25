@@ -23,3 +23,7 @@ the game goes on with another round, by reducing the time T1 of some factor F.
 If the player does not compose the correct number on time,  then the red led Ls  is turned on for 1 second and the game ends: a message "Game Over - Final Score XXX" (where XXX is the final score) is displayed on the LCD (on multiple lines) for 10 seconds, then the game restarts from the initial state.
 
 Before starting the game, the potentiometer Pot device can be used to set the difficulty L level  which could be a value in the range 1..4 (1 easiest, 4 most difficult). The level must affect the value of the factor F (so that the more difficult the game is, the greater the factor F must be). 
+
+## Video showcase
+https://youtu.be/CACj1u8vGgM
+
