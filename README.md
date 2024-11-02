@@ -1,7 +1,5 @@
 # Assignment #1 - Give Me the Binary! (GMB)
 
-We want to realise an embedded system implementing a game called Turn on the binary code. 
-
 ## Description 
 
 The game board includes 4 green leds L1, L2, L3, L4 and red led LS, four tactile buttons B1, B2, B3, B4 and a potentiometer Pot, and an LCD. This is the suggested  layout:
